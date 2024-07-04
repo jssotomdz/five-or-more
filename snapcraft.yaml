@@ -7,7 +7,7 @@ description: |
   same color and shape causing them to disappear.
 grade: stable # must be 'stable' to release into candidate/stable channels
 confinement: strict
-base: core22
+base: core24
 
 layout:
   /usr/share/five-or-more/themes:
